@@ -612,7 +612,7 @@ h4 {
 .cover {
   width: 100%;
   height: 55vmin;
-  background: url("../images/pexels-josh-sorenson-1714208.jpg");
+  background: url("./images/pexels-josh-sorenson-1714208.jpg");
   background-position: -24rem -19rem;
   background-size: 150%;
   position: relative;
